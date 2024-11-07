@@ -1,7 +1,11 @@
-#MYBIKE Landing. 
+<h1>#MYBIKE Landing.</h1>
+<h3>Figma design:<h3> <kbd>https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1</kbd>
 
-Figma design https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1 
+<h2>Techonologies</h2>
+<ul>
+  <li><b>HTML5</b></li>
+  <li><b>CSS</b></li>
+  <li><b>SASS</b></li>
+</ul>
 
-HTML5/Css/Sass. 
-
-Preview: https://indigo04.github.io/my_landing/
+<h3>Preview:</h3> <kbd>https://indigo04.github.io/my_landing/</kbd>
